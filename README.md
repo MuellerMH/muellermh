@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about DevOps, automation, and cloud
 
 💬 Ask me about: Anything related to DevOps, cloud computing, Kubernetes, Automation, Python scripting, or Linux system administration. I'm also a fan of discussing best practices in software development and infrastructure management.
 
-📭 How to reach me: You can contact me via LinkedIn (linkedin.com/in/mueller) or send me an email at mueller@example.com. I'm always open to connecting with fellow tech enthusiasts and professionals.
+📭 How to reach me: You can contact me via LinkedIn ([linkedin.com/in/mueller](https://www.linkedin.com/in/manuelengelhardt/)) or send me an message in ([discord](https://discord.gg/BRXuTwrP8x)). I'm always open to connecting with fellow tech enthusiasts and professionals.
 
 😄 Pronouns: He/Him
 
